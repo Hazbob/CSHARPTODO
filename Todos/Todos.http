@@ -1,0 +1,6 @@
+@Todos_HostAddress = http://localhost:5237
+
+GET {{Todos_HostAddress}}/Todo/
+Accept: application/json
+
+###
